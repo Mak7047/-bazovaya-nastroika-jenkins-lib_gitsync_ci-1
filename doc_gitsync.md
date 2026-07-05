@@ -8,4 +8,5 @@ gitsync init -u DeployGit -e YAXUNIT C:\StorageOtus_yaxunit\ C:\otus_JenkinsExam
 
 ## Синхронизация с хранилищем
 
-gitsync sync -u DeployGit C:\1C\Demo83_UP_Storage\ C:\otus_JenkinsExample-storage_1c\src\cf\
+gitsync sync -u GitDeploy C:\1C\Demo83_UP_Storage\ C:\otus_JenkinsExample-storage_1c_3\-bazovaya-nastroika-jenkins-lib_gitsync_ci-1\src\cf\
+gitsync sync -u DeployGit -e YAXUNIT C:\StorageOtus_yaxunit\ C:\otus_JenkinsExample-storage_1c_3\-bazovaya-nastroika-jenkins-lib_gitsync_ci-1\src\cfe\yaxunit\ 
