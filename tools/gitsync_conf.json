@@ -29,7 +29,7 @@
       "temp-dir": "",
       "v8version": "8.3.25.1394",
       "plugins-config": {
-        "URL": "https://github.com/Mak7047/otus_JenkinsExample.git"
+        "URL": "https://github.com/Mak7047/-bazovaya-nastroika-jenkins-lib_gitsync_ci-1.git"
       }
     },
     {
@@ -40,7 +40,7 @@
         "temp-dir": "",
         "v8version": "8.3.25.1394",
         "plugins-config": {
-          "URL": "https://github.com/Mak7047/otus_JenkinsExample.git"
+          "URL": "https://github.com/Mak7047/-bazovaya-nastroika-jenkins-lib_gitsync_ci-1.git"
         }
      }
   ]
