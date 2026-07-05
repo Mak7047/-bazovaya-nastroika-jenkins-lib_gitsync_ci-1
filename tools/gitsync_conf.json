@@ -1,6 +1,6 @@
 {
   "globals": {
-    "storage-user": "DeployGit",
+    "storage-user": "GitDeploy",
     "storage-pwd": "",
     "git-path": "git",
     "domain-email": "otus.ru",
@@ -24,23 +24,23 @@
   "repositories": [
     {
       "name": "otus",
-      "path": "tcp://KyralesGun/Storage/storage.1ccr/StorageOtus",
+      "path": "C:/1C/Demo83_UP_Storage",
       "dir": "./src/cf",
       "temp-dir": "",
-      "v8version": "8.3.25.1546",
+      "v8version": "8.3.25.1394",
       "plugins-config": {
-        "URL": "https://github.com/Kyrales/otus_JenkinsExample.git"
+        "URL": "https://github.com/Mak7047/otus_JenkinsExample.git"
       }
     },
     {
         "name": "YAXUNIT",
         "extension": "YAXUNIT",
-        "path": "tcp://KyralesGun/Storage/storage.1ccr/StorageOtus_yaxunit",
+        "path": "C:/StorageOtus_yaxunit",
         "dir": "./src/cfe/yaxunit",
         "temp-dir": "",
-        "v8version": "8.3.25.1546",
+        "v8version": "8.3.25.1394",
         "plugins-config": {
-          "URL": "https://github.com/Kyrales/otus_JenkinsExample.git"
+          "URL": "https://github.com/Mak7047/otus_JenkinsExample.git"
         }
      }
   ]
